@@ -3,9 +3,9 @@
 這是針對Apex Legends所設計的快速打字外掛軟體，使用者只需要按下按鍵，軟體就會自動傳送訊息，方便快速的與隊友溝通！開發這款軟體是為了瘖啞人士而做的，他們只能打字與隊友溝通，這十分的不便，這款軟體肯定讓Apex Legends更加友善且無障礙化！
 This is a fast typing plugin designed for Apex Legends, the user only need to press the keyboard key, the software will automatically send messages, convenient and fast communication with teammate! This software was developed for mute person, they only can type messages to communication with teammate, that was very inconvenient. This software will make Apex Legends more friendly and more accessibility.
 ## 特色 Features
-10組快捷鍵+自動化傳送訊息 10 groups of hotkey + messages send automate
-支援自動化傳送英文訊息 Support english message send automate
-將在未來製作GUI介面 Will make GUI interface in the future
+* 10組快捷鍵+自動化傳送訊息 10 groups of hotkey + messages send automate
+* 支援自動化傳送英文訊息 Support english message send automate
+* 將在未來製作GUI介面 Will make GUI interface in the future
 ## 使用方法 Usage
 ### Dev Version
 1. 下載並安裝Python3(建議使用3.10.4最新版)
