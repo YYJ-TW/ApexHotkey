@@ -1,4 +1,33 @@
 # Apex-Hot-Key
-## 簡介
-這是針對Apex Legends遊戲所設計的快捷輸入文字軟體，方便快速的與隊友用文字溝通，可能對一般人來說沒什麼用處，但如果是啞巴呢？
-## 目前正在開發中...
+## 簡介 Introduction
+這是針對Apex Legends所設計的快速打字外掛軟體，使用者只需要按下按鍵，軟體就會自動傳送訊息，方便快速的與隊友溝通！開發這款軟體是為了瘖啞人士而做的，他們只能打字與隊友溝通，這十分的不便，這款軟體肯定讓Apex Legends更加友善且無障礙化！
+This is a fast typing plugin designed for Apex Legends, the user only need to press the keyboard key, the software will automatically send messages, convenient and fast communication with teammate! This software was developed for mute person, they only can type messages to communication with teammate, that was very inconvenient. This software will make Apex Legends more friendly and more accessibility.
+## 特色 Features
+10組快捷鍵+自動化傳送訊息 10 groups of hotkey + messages send automate
+支援自動化傳送英文訊息 Support english message send automate
+將在未來製作GUI介面 Will make GUI interface in the future
+## 使用方法 Usage
+### Dev Version
+1. 下載並安裝Python3(建議使用3.10.4最新版)
+2. 移動終端機路徑至Apex-Hot-Key資料夾
+3. 輸入 `pip install -r requirements.txt` 指令至終端機
+4. 啟動 `Main.py`
+### Full Version
+開發中 Developing
+### 快捷鍵 + 訊息設定 Hotkey + Messages Settings
+1. Install and Setup Python3(Recommended use 3.10.4)
+2. Move terminal path to Apex-Hot-Key folder
+3. Enter `pip install -r requirements.txt` command in terminal
+5. Start `Main.py`
+
+你可以在 `msg.json` 設定快捷鍵和自動化傳送訊息，舉個例子： 
+You can set hotkey and message send automate in msg.json, for example:
+```
+KEY1: "f1",
+KEY1_MSG: "abc"
+```
+當按下F1將會自動傳送abc訊息。 When press F1 will automatic send abc message.
+## 聯繫 Contact
+如果你有任何關於此專案的問題，隨時聯繫我。 If you have any question about this project, feel free to contact me.
+Discord: YYJ#6116
+Email: service@yyjstudio.com
