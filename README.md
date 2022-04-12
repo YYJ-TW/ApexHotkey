@@ -9,20 +9,20 @@ This is a fast typing plugin designed for Apex Legends, the user only need to pr
 ## 使用方法 Usage
 ### Dev Version
 1. 下載並安裝Python3(建議使用3.10.4最新版)
-2. 移動終端機路徑至Apex-Hot-Key資料夾
-3. 輸入 `pip install -r requirements.txt` 指令至終端機
-4. 啟動 `Main.py`
+2. 下載Apex-Hot-Key
+3. Windows用戶請點擊`Setup.bat`/Linux or MacOS用戶請點擊`Setup.sh`
+
+1. Install and Setup Python3(Recommended use 3.10.4)
+2. Download Apex-Hot-Key
+3. Windows user please click `Setup.bat`/Linux or MacOS user please click `Setup.sh`
+
+當你第2次使用此程式時，只需要點擊`Main.py`檔案 When you use this program for a second time, just click the `Main.py` file
 ### Full Version
 開發中 Developing
 ### 快捷鍵 + 訊息設定 Hotkey + Messages Settings
-1. Install and Setup Python3(Recommended use 3.10.4)
-2. Move terminal path to Apex-Hot-Key folder
-3. Enter `pip install -r requirements.txt` command in terminal
-5. Start `Main.py`
-
-你可以在 `msg.json` 設定快捷鍵和自動化傳送訊息，舉個例子： 
+你可以在`msg.json`設定快捷鍵和自動化傳送訊息，舉個例子： 
 You can set hotkey and message send automate in msg.json, for example:
-```
+```js
 KEY1: "f1",
 KEY1_MSG: "abc"
 ```
