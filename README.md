@@ -23,7 +23,7 @@ You can set hotkey and message send automate in msg.json, for example:
 KEY1: "f1",
 KEY1_MSG: "abc"
 ```
-當按下F1將會自動傳送abc訊息。When press F1 will automatic send abc message.
+開啟聊天室介面後，當按下F1將會自動傳送abc訊息。After open chat interface, When press F1 will be automatically send abc message.
 ## 聯繫 Contact
 如果你有任何關於此專案的問題，隨時聯繫我。If you have any question about this project, feel free to contact me.
 Discord: YYJ#6116
