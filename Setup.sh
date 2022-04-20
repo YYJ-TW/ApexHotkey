@@ -1,3 +1,4 @@
+# Dev 1.0.5
 # TODO: Add package installation command
 # TODO: Add updater
 figlet Setup Apex Hot Key
