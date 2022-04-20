@@ -1,4 +1,4 @@
-# Apex-Hotkey
+# ApexHotkey
 [繁體中文](/README.md) [简体中文](readme/zh_CN.md) [English](/readme/en_US.md)
 
 ## 簡介
